@@ -1,0 +1,17 @@
+body{
+background-image: url(Catioro.png);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100%;
+}
+h1{
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+text-align: center;
+color: rgb(155, 155, 21);
+font-size:xx-large;
+}
+
+case{
+font-family: 'Courier New', Courier, monospace;
+}
+
